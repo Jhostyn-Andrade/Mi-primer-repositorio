@@ -1,20 +1,20 @@
 # 🚀 Mi primer repositorio en GitHub
  
 ## 👋 Bienvenido
-Este es mi primer repositorio. Aquí empecé a trabajar con GitHub.
+Este es mi primer repositorio.
 ## ✅ Respuestas
 ### 🧪 ¿Qué hice aquí?
-Aprender acerca del funcionamiento de GitHub y cómo se trabaja aqui al momento de editar. Guardé versiones de mi documento
+Aprendi a confugurar y relaciones un documento en visual code, y git
  
 ### 😮 ¿Qué es GitHub?
-Un controlador de versiones 
+Un controlador de varias pruebas y que me refleje las anterioeres actualizaciones
  
 ### 🎯 ¿Para qué me sirve?
 Para realizar un seguimiento de las versiones de mis archivos
  
 ## ✍️ Mi progreso
-50%
+60%
 
 ## 👤 Sobre mí
 Nombre: Jhostyn Andrade
-Curso: PD1 RUTA 3
+Curso: PD1 CURSO B
