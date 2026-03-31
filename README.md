@@ -18,3 +18,6 @@ Para realizar un seguimiento de las versiones de mis archivos
 ## 👤 Sobre mí
 Nombre: Jhostyn Andrade
 Curso: PD1 CURSO B
+
+Fecha: 31/3/2026
+Hora: 12:32
