@@ -2,27 +2,19 @@
  
 ## 👋 Bienvenido
 Este es mi primer repositorio. Aquí empecé a trabajar con GitHub.
- 
----
- 
 ## ✅ Respuestas
- 
 ### 🧪 ¿Qué hice aquí?
-(Respuesta)
+Aprender acerca del funcionamiento de GitHub y cómo se trabaja aqui al momento de editar. Guardé versiones de mi documento
  
 ### 😮 ¿Qué es GitHub?
-(Respuesta)
+Un controlador de versiones 
  
 ### 🎯 ¿Para qué me sirve?
-(Respuesta)
- 
----
+Para realizar un seguimiento de las versiones de mis archivos
  
 ## ✍️ Mi progreso
-Aquí ya realicé varios cambios en GitHub.
- 
----
- 
+50%
+
 ## 👤 Sobre mí
-Nombre:
-Curso: 
+Nombre: Jhostyn Andrade
+Curso: PD1 RUTA 3
